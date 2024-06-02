@@ -1,0 +1,12 @@
+
+div{
+    /* justify-content: center; */
+    text-align: center;
+    width: fit-content;
+    margin-left: auto;
+    border: 1px dashed rgb(246, 242, 242);
+    padding: 50px;
+    background-color: black;
+    color: white;
+   border-radius: 20px;
+}
